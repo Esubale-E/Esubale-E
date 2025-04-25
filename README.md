@@ -1,36 +1,35 @@
-# Hi there 👋, I'm Esubale-E!
+# Hi 👋, I'm Esubale-E!
 
 ---
 
 ## 🌟 About Me
-- 💻 **Software Developer** passionate about solving real-world problems.
-- 🌱 Learning: **Cloud Computing**, **Machine Learning**, and **DevOps**.
-- 🎯 Focus: Scalable apps, open-source contributions, mentoring.
-- 🌈 Fun Fact: I love [your hobby here].
+- 💻 Software Developer focused on solving real-world problems.
+- 🌱 Learning: Cloud Computing, Machine Learning, DevOps.
+- 🎯 Interests: Scalable apps, open-source, mentoring.
+- 🌍 Open to remote opportunities.
+- 🌈 Fun Fact: I enjoy [your hobby here].
 
 ---
 
-## 🔧 Skills
-- **Languages:** Python, JavaScript, Java, C++, Go
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java
 - **Frameworks:** Django, Flask, React, TensorFlow
-- **DevOps:** AWS, Docker, Kubernetes, GitHub Actions
+- **DevOps Tools:** AWS, Docker, Kubernetes
 - **Databases:** PostgreSQL, MongoDB
 
 ---
 
-## 📈 GitHub Stats
-![Esubale-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esubale-E&show_icons=true&theme=radical)
+## 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esubale-E&show_icons=true&theme=radical)
 
 ---
 
 ## 📚 Projects
-- **[Project 1](#):** Task management app | React, Node.js, MongoDB
-- **[Project 2](#):** AI chatbot for customer support | Python, Flask
+- **[Project 1](#):** Task manager | React, Node.js, MongoDB
+- **[Project 2](#):** AI chatbot | Python, Flask
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/Esubale-E/)
-- 📧 Email: [your-email@example.com]
-
----
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/Esubale-E/)
+- 📧 [your-email@example.com]
