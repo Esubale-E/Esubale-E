@@ -3,19 +3,19 @@
 ---
 
 ## 🌟 About Me
-- 💻 Software Developer focused on solving real-world problems.
-- 🌱 Learning: Cloud Computing, Machine Learning, DevOps.
-- 🎯 Interests: Scalable apps, open-source, mentoring.
-- 🌍 Open to remote opportunities.
-- 🌈 Fun Fact: I enjoy [your hobby here].
+- 💻 Web Developer passionate about building modern, responsive, and interactive websites.
+- 🌱 Currently growing skills in: React, Tailwind CSS.
+- 🎯 Interests: Frontend development, scalable web apps.
+- 🌍 Open to remote and freelance opportunities.
+- 🌈 Fun Fact: I love turning creative ideas into smooth, dynamic websites!
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** Django, Flask, React, TensorFlow
-- **DevOps Tools:** AWS, Docker, Kubernetes
-- **Databases:** PostgreSQL, MongoDB
+- **Languages:** JavaScript, HTML, CSS, Python
+- **Frameworks/Libraries:** React, Tailwind CSS, ScrollReveal.js
+- **Tools & Tech:** Git, Responsive Web Design, Framer Motion (animations)
+- **Databases:** MongoDB, MySql
 
 ---
 
@@ -25,11 +25,10 @@
 ---
 
 ## 📚 Projects
-- **[Project 1](#):** Task manager | React, Node.js, MongoDB
-- **[Project 2](#):** AI chatbot | Python, Flask
+- **[Health Science Department Website](#):** Fully responsive website using React, Tailwind CSS, and ScrollReveal animations.
 
 ---
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/Esubale-E/)
-- 📧 [your-email@example.com]
+- 📧 esu1011esu@gmail.com
