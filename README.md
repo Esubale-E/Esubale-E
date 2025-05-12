@@ -7,8 +7,6 @@
 - 🌱 Currently growing skills in: React, Tailwind CSS.
 - 🎯 Interests: Frontend development, scalable web apps.
 - 🌍 Open to remote and freelance opportunities.
-- 🌈 Fun Fact: I love turning creative ideas into smooth, dynamic websites!
-
 ---
 
 ## 🛠️ Skills
@@ -21,11 +19,6 @@
 
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esubale-E&show_icons=true&theme=radical)
-
----
-
-## 📚 Projects
-- **[Health Science Department Website](#):** Fully responsive website using React, Tailwind CSS, and ScrollReveal animations.
 
 ---
 
